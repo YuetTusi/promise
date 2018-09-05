@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "手写原生Promise，参照Promises/A+",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuetTusi/promise.git"
+  },
+  "author": "yuet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuetTusi/promise/issues"
+  },
+  "homepage": "https://github.com/YuetTusi/promise#readme"
+}
